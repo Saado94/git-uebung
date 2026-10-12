@@ -10,3 +10,4 @@ Außerdem habe ich meinen Namen und meine E-Mail-Adresse für Git konfiguriert u
 -Repository-Status mit git status überprüft
 -README-Datei mit einer Projektbeschreibung
 -GitHub-Workflow mit Pull, Commit und Push geübt
+-Änderung direkt online auf GitHub vorgenommen
