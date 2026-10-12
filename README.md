@@ -9,3 +9,4 @@ Außerdem habe ich meinen Namen und meine E-Mail-Adresse für Git konfiguriert u
 -Git-Benutzername und E-Mail-Adresse konfiguriert
 -Repository-Status mit git status überprüft
 -README-Datei mit einer Projektbeschreibung
+-GitHub-Workflow mit Pull, Commit und Push geübt
